@@ -7,7 +7,7 @@ const Contact = () => {
       >
         <div className="flex flex-row items-center justify-center mb-5">
           <span className="text-5xl">✉️ </span>
-          <div className="text-3xl md:text-3xl lg:text-5xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
+          <div className="text-3xl md:text-3xl lg:text-5xl text-white-100 font-semibold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
             {" "}
             Contact Me
           </div>
